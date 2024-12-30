@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="medicine_type">
+        <item>Nước</item>
+        <item>Viên</item>
+        <item>Bột</item>
+    </string-array>
+</resources>
